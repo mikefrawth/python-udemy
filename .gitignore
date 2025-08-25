@@ -1,0 +1,33 @@
+# Local history
+.history/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.build/
+dist/
+*.spec
+*.manifest
+*.dll
+*.so
+*.dylib
+.python-version
+.venv/
+venv/
+env/
+
+# Tools & IDEs
+.vscode/
+.idea/
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
